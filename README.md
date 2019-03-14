@@ -10,13 +10,13 @@ También abarcara la gestión de bodegas la cual servirá para que se pueda clas
 
 Dentro de los procesos operacionales el alcance se realizará a los siguientes procesos:
 
-* Cliente:
-** •	Proceso de Simulación: El proceso este enfocado a que el cliente pueda realizar una simulación para poder ver cuál será el costo de enviar su encomienda.
-** •	Proceso de Tracking: El proceso se enfoca en que el cliente pueda ver donde se encuentra la encomienda en todo momento.
-* Recepcionista:
-** •	Proceso de recopilación de datos: Enfocado en recopilar los datos del cliente que quiere enviar la encomienda para mantenerlos guardados en nuestra base de datos.
-* Bodeguero:
-** •	Proceso de ingreso de encomienda: Enfocado en que el bodeguero guarde los datos de la encomienda, el tipo y le asigne un lugar en la bodega.
-** •	Proceso de tracking: Enfocado en asignarle el número de seguimiento para que el cliente pueda ver el tracking de la encomienda.
+1. Cliente:
+*•	Proceso de Simulación: El proceso este enfocado a que el cliente pueda realizar una simulación para poder ver cuál será el costo de enviar su encomienda.*
+*•	Proceso de Tracking: El proceso se enfoca en que el cliente pueda ver donde se encuentra la encomienda en todo momento.*
+2. Recepcionista:
+*•	Proceso de recopilación de datos: Enfocado en recopilar los datos del cliente que quiere enviar la encomienda para mantenerlos guardados en nuestra base de datos.*
+3. Bodeguero:
+*•	Proceso de ingreso de encomienda: Enfocado en que el bodeguero guarde los datos de la encomienda, el tipo y le asigne un lugar en la bodega.*
+*•	Proceso de tracking: Enfocado en asignarle el número de seguimiento para que el cliente pueda ver el tracking de la encomienda.
 
 Tambien cuenta con control de usuarios y perfiles correspondientes a cada labor.
