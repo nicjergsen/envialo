@@ -1,6 +1,6 @@
-# envialo-laravel
+## Envialo
 
-## Proyecto realizado en PHP/Laravel + MySQL
+###### Proyecto realizado en PHP/Laravel + MySQL
 
 Envialo consiste en una empresa ficticia encargada de la distribución y logística de encomiendas.
 
