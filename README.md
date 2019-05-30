@@ -2,7 +2,7 @@
 
 ###### Proyecto realizado en PHP/Laravel + MySQL
 
-Envialo consiste en una empresa ficticia encargada de la distribución y logística de encomiendas.
+Envialo consiste en una empresa encargada de la distribución y logística de encomiendas.
 
 Este desarrollo abarca toda la gestión que se realiza en el momento en que cualquier cliente desea realizar una encomienda, también podrá realizar simulaciones de envió en nuestra página, con la cual el cliente podrá saber el costo que tendrá él envió de su encomienda sin la necesidad de dirigirse a nuestra sucursal, podrá visualizar en donde se encuentra su encomienda en todo momento gracias a que contaremos con el sistema de tracking el cual se le dará al cliente al momento de que este entrega la encomienda en la sucursal.
 Para los recepcionistas el sistema abarcara toda la gestión que conlleva recopilar los datos del cliente para mantenerlos guardados y de esta forma poder entregarles ofertas o descuentos en base a la fidelidad de este.
